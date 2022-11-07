@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5Q-TandF-SwipeApp.Android", "5Q-TandF-SwipeApp\5Q-TandF-SwipeApp.Android\5Q-TandF-SwipeApp.Android.csproj", "{88F374A4-7861-4E0C-80B9-33B9C20A95DF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin_SwipeApp_Ver3.Android", "5Q-TandF-SwipeApp\5Q-TandF-SwipeApp.Android\Xamarin_SwipeApp_Ver3.Android.csproj", "{88F374A4-7861-4E0C-80B9-33B9C20A95DF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5Q-TandF-SwipeApp.iOS", "5Q-TandF-SwipeApp\5Q-TandF-SwipeApp.iOS\5Q-TandF-SwipeApp.iOS.csproj", "{09DBD1B1-8316-40FB-81EC-0F9F9812CF79}"
 EndProject
