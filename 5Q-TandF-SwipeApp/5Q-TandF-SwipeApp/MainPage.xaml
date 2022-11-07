@@ -17,7 +17,7 @@
             HorizontalTextAlignment="Center"
             BackgroundColor="red"
             TextColor="White"
-            Padding="30,15,30,15"
+            Padding="35,15,35,15"
                />
 
        
