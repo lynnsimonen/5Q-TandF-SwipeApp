@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5Q-TandF-SwipeApp.Android",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5Q-TandF-SwipeApp.iOS", "5Q-TandF-SwipeApp\5Q-TandF-SwipeApp.iOS\5Q-TandF-SwipeApp.iOS.csproj", "{09DBD1B1-8316-40FB-81EC-0F9F9812CF79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5Q-TandF-SwipeApp", "5Q-TandF-SwipeApp\5Q-TandF-SwipeApp\5Q-TandF-SwipeApp.csproj", "{CF4AF926-E8A3-487C-B0F6-38E1FB0FE42C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5Q-TandF-SwipeApp_Ver3-incSwiping", "5Q-TandF-SwipeApp\5Q-TandF-SwipeApp\5Q-TandF-SwipeApp_Ver3-incSwiping.csproj", "{CF4AF926-E8A3-487C-B0F6-38E1FB0FE42C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

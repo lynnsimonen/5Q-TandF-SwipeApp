@@ -128,9 +128,9 @@
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
-    <ProjectReference Include="..\5Q-TandF-SwipeApp\5Q-TandF-SwipeApp.csproj">
-      <Project>{1FBA6EE1-3D28-4926-A2C1-EBACD1585938}</Project>
-      <Name>5Q-TandF-SwipeApp</Name>
+    <ProjectReference Include="..\5Q-TandF-SwipeApp\5Q-TandF-SwipeApp_Ver3-incSwiping.csproj">
+      <Project>{CF4AF926-E8A3-487C-B0F6-38E1FB0FE42C}</Project>
+      <Name>5Q-TandF-SwipeApp_Ver3-incSwiping</Name>
     </ProjectReference>
   </ItemGroup>
 </Project>
